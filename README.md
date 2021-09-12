@@ -7,7 +7,7 @@ Modified brightness slider, extending brightness range to -150% to 1200%.
 ![GIF showing the range of the new brightness slider](https://i.imgur.com/ScqEWNE.gif "From -15% to 1200%!")
 
 ## Features
-Modified brightness slider, extending brightness range to 0% to 500%. (Version for speedruners!)
+Modified brightness slider, extending brightness range to 0% to 500%. (Version for speedruners, with MCSR at end)
 
 
 ## Installation
