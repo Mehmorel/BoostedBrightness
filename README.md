@@ -1,10 +1,14 @@
 # Boosted Brightness
 Boosted Brightness is a simple mod that allows you to set your brightness beyond default levels.
-It makes use of Fabric (not Forge) and is compatible with Minecraft 1.15, 1.16, 1.17.
+It makes use of Fabric (not Forge) and is compatible with Minecraft 1.16, 1.17.
 
 ## Features
 Modified brightness slider, extending brightness range to -150% to 1200%.
 ![GIF showing the range of the new brightness slider](https://i.imgur.com/ScqEWNE.gif "From -15% to 1200%!")
+
+## Features
+Modified brightness slider, extending brightness range to 0% to 500%. (Version for speedruners!)
+
 
 ## Installation
 1. Install [Fabric](https://fabricmc.net/use/)
